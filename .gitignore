@@ -1,0 +1,13 @@
+# Virtuelle Umgebung
+venv/
+__pycache__/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Datenfiles
+*.csv
+*.xlsx
+
+# Sonstige Systemdateien
+.DS_Store
