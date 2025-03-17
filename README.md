@@ -14,40 +14,6 @@ big4-financial-risk-analysis/
 │-- README.md              # Projektbeschreibung
 │-- .gitignore             # Dateien, die nicht in Git verfolgt werden sollen
 ```
-
----
-
-## 🚀 Setup & Installation
-
-### 🔹 Repository klonen
-
-```sh
-git clone https://github.com/dein-nutzername/big4-financial-risk-analysis.git
-cd big4-financial-risk-analysis
-```
-
-### 🔹 Python-Umgebung einrichten (optional, aber empfohlen)
-
-```sh
-python -m venv venv
-source venv/bin/activate  # macOS/Linux
-venv\Scripts\activate     # Windows
-```
-
-### 🔹 Abhängigkeiten installieren
-
-```sh
-pip install pandas matplotlib seaborn jupyter
-```
-
-### 🔹 Jupyter Notebook starten
-
-```sh
-jupyter notebook
-```
-
-Dann öffne `big4_analysis.ipynb` in Jupyter, um die Analyse auszuführen.
-
 ---
 
 ## 📈 Analysen & Insights
